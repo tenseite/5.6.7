@@ -1,0 +1,10 @@
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.exe.config
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.exe
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.pdb
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.csproj.AssemblyReference.cache
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.FrmFileFinderMain.resources
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.Properties.Resources.resources
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.csproj.GenerateResource.cache
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.csproj.CoreCompileInputs.cache
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.exe
+D:\Practich\Программа для поиска файлов, используя ProgressBar и\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.pdb
