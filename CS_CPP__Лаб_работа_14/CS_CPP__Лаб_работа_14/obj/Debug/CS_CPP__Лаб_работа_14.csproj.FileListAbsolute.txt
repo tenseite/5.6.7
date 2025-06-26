@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\bin\Debug\CS_CPP__Лаб_работа_14.exe.config
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\bin\Debug\CS_CPP__Лаб_работа_14.exe
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\bin\Debug\CS_CPP__Лаб_работа_14.pdb
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\obj\Debug\CS_CPP__Лаб_работа_14.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\obj\Debug\CS_CPP__Лаб_работа_14.LuckyTicket.resources
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\obj\Debug\CS_CPP__Лаб_работа_14.Properties.Resources.resources
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\obj\Debug\CS_CPP__Лаб_работа_14.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\obj\Debug\CS_CPP__Лаб_работа_14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\obj\Debug\CS_CPP__Лаб_работа_14.exe
+C:\Users\Admin\Desktop\проекакго\CS_CPP__Лаб_работа_14\CS_CPP__Лаб_работа_14\obj\Debug\CS_CPP__Лаб_работа_14.pdb
